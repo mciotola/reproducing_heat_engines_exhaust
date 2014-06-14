@@ -12,7 +12,7 @@ Description
 -----------
 
   This program simulates a using the work from heat engines to produce more heat engines.
-  In this simulation, the thermal reservoirs are exhaistible.
+  In this simulation, the thermal reservoirs are exhaistible. 
 
 
 Requirements
